@@ -9,7 +9,7 @@ Me chamo Gabriel Andrade, tenho 21 anos e moro no estado de São Paulo. Sou téc
     <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   </a>
-    <a href="www.linkedin.com/in/gabriel-andrade-7182a2239" target="_blank">
+    <a href="https://www.linkedin.com/in/gabriel-andrade-7182a2239" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Perfil no Linkedin" 
