@@ -13,7 +13,7 @@ Me chamo Gabriel Andrade, tenho 21 anos e moro no estado de São Paulo. Sou téc
         <img 
             alt="LinkedIn" 
             title="Perfil no Linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            src="https://img.shields.io/badge/LinkedIn-Seguir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://github.com/GabAndrade12?tab=followers">
          <img alt="seguidores" title="Me Siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/GabAndrade12?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
